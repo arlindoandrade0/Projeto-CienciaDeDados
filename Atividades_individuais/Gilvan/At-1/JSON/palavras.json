@@ -1,0 +1,20 @@
+{
+    "nome": "Maria",
+    "idade": 30,
+    "endereços": [
+        {
+            "tipo": "residencial",
+            "logradouro": "Avenida Paulista",
+            "numero": 123
+        },
+        {
+            "tipo": "comercial",
+            "logradouro": "Rua 15 de Novembro",
+            "numero": 456
+        }
+    ],
+    "contatos": {
+        "telefone": "987654321",
+        "email": "maria@example.com"
+    }
+}
